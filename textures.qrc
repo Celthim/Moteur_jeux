@@ -9,7 +9,6 @@
         <file>WorldHMap.png</file>
         <file>MH.pgm</file>
         <file>hmap.png</file>
-        <file>MHProcheVoisins_prof2.png</file>
         <file>greenman.jpg</file>
     </qresource>
 </RCC>
